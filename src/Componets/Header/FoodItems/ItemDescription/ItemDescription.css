@@ -1,0 +1,7 @@
+.item-description{
+    display: flex
+    flex-direction: column;
+    padding: 10px;
+    margin-left: 10px;
+    boader:2px solde black;
+}
